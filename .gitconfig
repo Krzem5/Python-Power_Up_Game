@@ -5,7 +5,6 @@ desc=Python-Power_Up_Game
 public=true
 homepage=
 license=mit
-remote=
 
 file.readme=.\README.md
 file.gitignore=.\.gitignore
